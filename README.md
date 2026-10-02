@@ -215,4 +215,4 @@ FFaM is offered as a full free version, with all features and updates included, 
 Take control of your Firefox installation with FFaM! Download now and start customizing your browsing experience today!
 
 ---
-**Last updated:** 2026-10-02 18:50:40 UTC
+**Last updated:** 2026-10-02 22:43:00 UTC
